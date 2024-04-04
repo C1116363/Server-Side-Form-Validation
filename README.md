@@ -4,5 +4,6 @@ used plugins
 * css
 * java
 * spring boot
+* bootstrap
 * thymeleaf plugin
   
